@@ -8,5 +8,8 @@ namespace App\Kernel;
  */
 class Application
 {
-
+    public function test()
+    {
+        echo 'autoload is working!' . PHP_EOL;
+    }
 }

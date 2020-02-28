@@ -20,4 +20,4 @@ RUN mkdir /home/stranger/ && \
 
 USER stranger
 
-WORKDIR /home/stranger/
+WORKDIR /home/app
